@@ -93,6 +93,49 @@ body {
     margin-top: -20px;
     margin-bottom: 30px;
 }
+.rest_list_container {
+    width: 100%;
+    margin-top: 40px;
+}
+.rest_list_text {
+    width: 100%;
+    height: 32px;
+    text-align: center;
+    font-size: 29px;
+    color: #1d3557;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.rest_list_image_row1 {
+    display: flex;
+    margin-top:10px;
+    gap: 10px;
+    align-items: baseline;
+}
+.rest_list_image_row2 {
+    display: flex;
+    margin-top: 10px;
+    gap: 10px;
+    margin-left: 10px;
+}
+.rest_list_image_container {
+    width: 100%;
+    height: 214px;
+}
+.rest1 {
+    height: 80px;
+    width: 150px;
+    border-radius: 6px;
+    box-shadow:  10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+.rest2 {
+    height: 100px;
+    width: 200px;
+    border-radius: 6px;
+    box-shadow:  10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+
+
+}
 @media (min-width: 768px){
     .navbar {
         justify-content: space-between;
