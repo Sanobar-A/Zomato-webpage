@@ -178,6 +178,7 @@ body {
     height: 17px;
     width: 110px;
     text-align: center;
+    cursor: pointer;
 }
 .footer_container {
     margin-top: 20px;
@@ -283,5 +284,15 @@ body {
     .rest2 {
         width: 300px ;
         height: 260px;
+    }
+    .update_container {
+        margin-top: 370px;
+        margin-left: 40%;
+    }
+    .footer_container { 
+        margin-top: 80px;
+    }
+    .footer_text2 {
+        padding-left: 40%;
     }
 }
